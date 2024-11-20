@@ -19,12 +19,12 @@ and mathematics expressions.
 2.1. Determine the centralizer and the order of the conjugacy class of
 
 (a) the matrix 
-$$\left[\begin{array}{ll}1 & 1 \\ & 1\end{array}\right]\)$$ 
+$$\left[\begin{array}{ll}1 & 1 \\ & 1\end{array}\right]$$ 
 in $$G L_{2}\left(\mathbb{F}_{3}\right)$$, 
 
-(b)the matrix \(\begin{matrix}1 & \\ & 2\end{matrix}\) in $G L_{2}\left(\mathbb{F}_{5}\right)$.
+(b)the matrix $$\begin{matrix}1 & \\ & 2\end{matrix}$$ in $G L_{2}\left(\mathbb{F}_{5}\right)$.
 
-Here is an inline matrix: \( \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix} \).
+<p>Here is an inline matrix: \( \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix} \).</p>
 
 Here is a block matrix:
 $$
