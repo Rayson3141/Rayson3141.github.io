@@ -16,7 +16,9 @@ and mathematics expressions.
 > [https://kramdown.gettalong.org/syntax.html#math-blocks](https://kramdown.gettalong.org/syntax.html#math-blocks).
 {: .block-tip }
 
-e.g.,
+2.1. Determine the centralizer and the order of the conjugacy class of
+(a) the matrix $\left[\begin{array}{ll}1 & 1 \\ & 1\end{array}\right]$ in $G L_{2}\left(\mathbb{F}_{3}\right)$, 
+(b) the matrix $\left[\begin{array}{ll}1 & \\ & 2\end{array}\right]$ in $G L_{2}\left(\mathbb{F}_{5}\right)$.
 
 ```markdown
 The well known Pythagorean theorem $x^2 + y^2 = z^2$ was
@@ -31,6 +33,8 @@ proved to be invalid for other exponents.
 Meaning the next equation has no integer solutions:
 
 $$ x^n + y^n = z^n $$
+
+
 
 Another example with more complex markups:
 
