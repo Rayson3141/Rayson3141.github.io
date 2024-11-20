@@ -21,6 +21,8 @@ and mathematics expressions.
 $$\left[\begin{array}{ll}1 & 1 \\ & 1\end{array}\right]\)$$ in $$G L_{2}\left(\mathbb{F}_{3}\right]$$, 
 (b) the matrix \(\left[\begin{matrix}1 & \\ & 2\end{matrix}\right]\) in 
 
+<p>Here is an inline matrix: \( \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix} \).</p>
+
 $G L_{2}\left(\mathbb{F}_{5}\right)$.
 
 ```markdown
